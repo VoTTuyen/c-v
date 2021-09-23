@@ -86,7 +86,7 @@ html {
         fantasy;
     font-size: 3rem;
     text-align: center;
-    margin: 40px 0px;
+    margin: 10px 0px;
 
 
 
@@ -150,8 +150,7 @@ html {
 .h2-link {
     font-size: 2.5rem;
     margin-bottom: 20px;
-    font: Marker Felt,
-        antasy;
+    font: Marker Felt, antasy;
     list-style: none;
     text-decoration: underline;
     cursor: pointer;
@@ -198,29 +197,20 @@ html {
 }
 
 .box:hover {
-    
-    background-position: left bottom;
-        /* background-image: linear-gradient(to right, rgba(23, 146, 29, 0), rgb(222, 230, 235)); */
-    /* background: url("t9.gif") no-repeat center center/cover; */
 
+    background-position: left bottom;
     color: rgb(55, 11, 250);
     border: none;
     box-shadow: 0 0 25px rgb(19, 6, 202);
 }
-.p{
+
+.p {
     font-size: 24pt;
-     /* align-items: center;
-     text-align: justify;
-           flex-wrap: wrap; */
-/* white-space: nowrap; */
-    /* word-wrap: break-word; */
-    /* padding-inline: 16px; */
     margin-inline: 8px;
-    /* font-family: Didot, serif; */
-    font-family:'Times New Roman', Times, serif;
+    font: 'Times New Roman', Times, serif;
 
 
-    
+
 }
 
 /* CONTACT */
@@ -232,22 +222,19 @@ html {
     padding: 10px;
     justify-content: center;
 
-
-
-
 }
 
 .footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    color: black;
+    color: white;
     text-align: center;
     padding-top: 25px;
     padding-bottom: 25px;
     padding-left: 25px;
     padding-right: 25px;
-
+   
 }
 
 i:hover {
